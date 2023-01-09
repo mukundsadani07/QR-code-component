@@ -2,9 +2,10 @@
   "name": "qr-code-component-main",
   "version": "1.0.0",
   "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
   "baseurl":"/QR-code-component",
   "url":"https://github.com/mukundsadani07",
-  "main": "index.js",
+  "private":"true",
   "scripts": {
     "start": "vite",
     "build-css": "tailwindcss build -i style.css -o ./style.css"
